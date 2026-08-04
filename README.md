@@ -9,6 +9,11 @@ The mobile app market is highly competitive. To stand out, developers need to un
 - What drives user installations?
 - How can we automatically classify user feedback?
 
+## 📂 Dataset
+
+The dataset used in this project is publicly available on Kaggle. You can find the raw data and column descriptions here:
+[Google Play Store Apps Dataset by lava18](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
+
 ## The Process
 
 **1. Data Cleaning & Preprocessing**
